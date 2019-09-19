@@ -1,7 +1,0 @@
-Jawaban :
-1. - Menambahkan gambar pada tg image. Selama menambahkan gambar tidak terjadi error atau kesalahan. 
-   - mengubah nama mahasiswa pada tabel. Pada saat mengubah nama mahasiswa tidak terjadi error akibat code yang salah. 
-   - Menambahkan <br> setelah tag table untuk memberikan enter pada baris berikutnya sehingga antara tabel dan tulisan bidang minat berjarak. 
-     pada penambahan <br> ini tidak terjadi error. 
-2.  Setelah diubah, maka refresh yang dilakukan sebanyak 5 detik. 
-    Meta dokumen sebagai identitas dari halaman web yang biasa terdiri dari owner, keywords, layout, ataupun inisialisasi proses seperti refresh.
