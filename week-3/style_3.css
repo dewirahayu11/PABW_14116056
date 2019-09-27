@@ -17,13 +17,12 @@ ul {
   padding: 0;
 }
 .nav-header li {
-display: inline-block;
+  display: inline-block;
   font-size: 20px;
   padding: 20px;
   position: right;
 }
 li a{
-	display: block;
 	color: white;
 	text-align: center;
 	padding: 14px 16px;
