@@ -1,0 +1,57 @@
+body { 
+  background: url(blog.jpg) no-repeat center fixed; 
+  background-size: cover;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;	
+}
+.nav-header {
+	background-color: pink; 
+  list-style-type: none;
+  text-align: right;
+  margin: 0;
+  padding: 0;
+}
+.nav-header li {
+display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+  position: right;
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a:hover:not (.active) {
+	background-color: #111;
+}
+.active {
+	background-color: #4CAF50;
+}
+.gambar {
+	height: 100px;
+	width: 1000px;
+	background-color: rgba(00, 00, 00, 0.5);
+	color: white;
+	margin-left: 50px;
+	margin-top: 520px;
+	padding-top: 1px;
+	padding-left: 30px;
+}
+footer {
+	height: 50px;
+	width: 1335px;
+	background-color: #333;
+}
+footer h4 {
+	color: white;
+	text-align: center;
+	line-height: 2.8;
+}
