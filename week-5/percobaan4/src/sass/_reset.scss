@@ -1,0 +1,13 @@
+html,
+body,
+ul,
+ol {
+margin: 0;
+padding: 0;
+}
+Lalu buat file dengan nama main.scss di dalam folder yang sama :
+@import 'reset';
+body {
+font: 100% Helvetica, sans-serif;
+background-color: #efefef;
+}
