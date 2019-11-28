@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAO;EAEP,UAAG,EAAE,eAAe;EACpB,aAAM,EAAE,eAAe;EAEvB,UAAU,EAAE,MAAM;EAClB,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,IAAI;EACjB,cAAQ;IACR,SAAS,EAAE,IAAI;IACf,KAAK,EAAE,kBAAe",
+"sources": ["nested-property.scss"],
+"names": [],
+"file": "nested-property.css"
+}
